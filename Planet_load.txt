@@ -1,0 +1,9 @@
+Name:Sun	Colour:orange	Mass:2000000	Radius:696340	Pos_x:0	Pos_y:0	V_x:0	V_y:0
+Name:Earth	Colour:blue	Mass:6	Radius:6371	Pos_x:0	Pos_y:152100000	V_x:-17709.3	V_y:0
+Name:Mars	Colour:red	Mass:0.6	Radius:3390	Pos_x:249200000	Pos_y:0	V_x:0	V_y:13227
+Name:Probe	Colour:green	Mass:0	Radius:0	Pos_x:0	Pos_y:152100000	V_x:-17709.3	V_y:0	DSD:Time~50400|Follows~Earth|Distance~6571|Angle~0|Oriented~Sun|Velocity~6650|Velocity_angle~0|Velocity_oriented~Sun	Impulse:Start_time^86000~Length^40~Magnitude^40~Orientation_angle^180~Orientated_relative_to^Sun
+Name:Mercury_c	Colour:yellow	Mass:0.33	Radius:2439	Pos_x:0	Pos_y:57909050	V_x:-28417.64	V_y:0
+Name:Venus_c	Colour:green	Mass:4.8	Radius:6052	Pos_x:0	Pos_y:-108450000	V_x:-21049.64	V_y:0
+Name:Earth_c	Colour:blue	Mass:6	Radius:6371	Pos_x:0	Pos_y:150000000	V_x:-17898.38	V_y:0
+Name:Jupiter_c	Colour:red	Mass:1898.2	Radius:71492	Pos_x:-778570000	Pos_y:0	V_x:0	V_y:7856.16
+Name:Moon_earth_c	Colour:brown	Mass:0	Radius:5000	Pos_x:0	Pos_y:150384400	V_x:-18500.00	V_y:0
